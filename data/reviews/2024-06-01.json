@@ -1,0 +1,26 @@
+[
+  {
+    "review_id": "r1",
+    "content": "MK too OP after the update",
+    "rating": 2,
+    "date": "2024-06-01"
+  },
+  {
+    "review_id": "r2",
+    "content": "Mega Knight is ruining mid ladder",
+    "rating": 1,
+    "date": "2024-06-01"
+  },
+  {
+    "review_id": "r3",
+    "content": "Goblin Queen journey is actually fun",
+    "rating": 4,
+    "date": "2024-06-01"
+  },
+  {
+    "review_id": "r4",
+    "content": "Game keeps crashing after update",
+    "rating": 1,
+    "date": "2024-06-01"
+  }
+]
